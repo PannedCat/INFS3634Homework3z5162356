@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">INFS3604Homework3</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Name">Breed Name:</string>
+    <string name="Weight">Weight:</string>
+    <string name="Temperament">Temperament:</string>
+    <string name="Origin">Origin:</string>
+    <string name="Lifespan">Lifespan:</string>
+    <string name="Link">Wikipedia Link:</string>
+    <string name="DogFriendliness">Dog Friendliness</string>
+    <string name="NoCatInfo">There is no information on dis cat</string>
+</resources>
